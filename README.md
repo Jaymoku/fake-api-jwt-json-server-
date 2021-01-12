@@ -1,1 +1,15 @@
 # fake-api-jwt-json-server-
+"locations": [
+	    {
+	      "id": 1,
+	      "name": "Location001"
+	    },
+	    {
+	      "id": 2,
+	      "name": "Location002"
+	    },
+	    {
+	      "id": 3,
+	      "name": "Location003"
+	    }
+	  ],
